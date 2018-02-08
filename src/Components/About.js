@@ -1,11 +1,11 @@
-import React, { Component } from 'react';
-class Projects extends Component {
-    render() {
-        return (
-            <div>
-                Projects
-            </div>
-        )
-    }
+import React, {Component} from "react";
+class About extends Component {
+  render() {
+    return (
+      <div>
+        About
+      </div>
+    )
+  }
 }
-export default Projects;
+export default About;

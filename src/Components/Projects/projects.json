@@ -1,0 +1,78 @@
+{
+  "sofep" : {
+    "id" : 1,
+    "title" : "Swerea",
+    "url" : "https://sofep.lonn.xyz",
+    "github_url" : "https://github.com/SoftwareEvolutionProject/2017Group1",
+    "description" : "A concept fullstack web application usin angular, postgresSQL and Java Spark, for managing 3D-print workflows"
+  },
+  "beer-notifier" : {
+    "id" : 2,
+    "title" : "Beer Notifier",
+    "url" : "Beer Notifier",
+    "github_url" : "https://github.com/mlonn/beer-notifier",
+    "description" : "A slack bot that send a message if there is new beer added to systembolaget.se"
+
+  },
+  "ricochet" : {
+    "id" : 3,
+    "title" : "Ricochet Robots",
+    "url" : "https://richochet.lonn.xyz",
+    "github_url" : "https://github.com/mlonn/TDA452",
+    "description" : "An version of the board game 'Richocket Robots' written in Elm"
+
+  },
+  "langtons_ant" : {
+    "id" : 4,
+    "title" : "Langtons Ant",
+    "url" : "https://ant.lonn.xyz",
+    "github_url" : "https://github.com/mlonn/langtons-ant",
+    "description" : "A simple version of Langtons Ant"
+  },
+  "sofep" : {
+    "id" : 1,
+    "title" : "Swerea",
+    "url" : "https://sofep.lonn.xyz",
+    "github_url" : "https://github.com/SoftwareEvolutionProject/2017Group1",
+    "description" : "A concept fullstack web application usin angular, postgresSQL and Java Spark, for managing 3D-print workflows"
+  },
+  "beer-notifier" : {
+    "id" : 2,
+    "title" : "Beer Notifier",
+    "url" : "Beer Notifier",
+    "github_url" : "https://github.com/mlonn/beer-notifier",
+    "description" : "A slack bot that send a message if there is new beer added to systembolaget.se"
+
+  },
+  "ricochet" : {
+    "id" : 3,
+    "title" : "Ricochet Robots in Elm",
+    "url" : "https://richochet.lonn.xyz",
+    "github_url" : "https://github.com/mlonn/TDA452",
+    "description" : "An version of the board game 'Richocket Robots' written in Elm"
+
+  },
+  "sofep" : {
+    "id" : 1,
+    "title" : "Swerea",
+    "url" : "https://sofep.lonn.xyz",
+    "github_url" : "https://github.com/SoftwareEvolutionProject/2017Group1",
+    "description" : "A concept fullstack web application usin angular, postgresSQL and Java Spark, for managing 3D-print workflows"
+  },
+  "beer-notifier" : {
+    "id" : 2,
+    "title" : "Beer Notifier",
+    "url" : "Beer Notifier",
+    "github_url" : "https://github.com/mlonn/beer-notifier",
+    "description" : "A slack bot that send a message if there is new beer added to systembolaget.se"
+
+  },
+  "ricochet" : {
+    "id" : 3,
+    "title" : "Ricochet Robots in Elm",
+    "url" : "https://richochet.lonn.xyz",
+    "github_url" : "https://github.com/mlonn/TDA452",
+    "description" : "An version of the board game 'Richocket Robots' written in Elm"
+
+  }
+}

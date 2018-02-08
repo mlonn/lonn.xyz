@@ -1,9 +1,8 @@
-.project-container{
+.projects-container{
+  padding: 40px;
   display: grid;
-  grid-template-columns: auto auto auto;
-  grid-template-areas: ". projects .";
-}
-
-.projects {
-  grid-area: projects;
+  grid-template-columns: repeat(auto-fit, minmax(260px,1fr));
+  justify-content: center;
+  grid-gap: 20px;
+  grid-area: main;
 }

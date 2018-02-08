@@ -1,0 +1,79 @@
+.contact-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-template-areas: ". info form .";
+}
+img {
+  width: 200px;
+  border-radius: 100%;
+
+}
+form {
+  grid-area: form;
+}
+.form-control {
+  text-align: left;
+}
+
+.form-control label {
+  font-weight: 700;
+  font-size: 18px;
+  margin-bottom: 5px;
+  display: block;
+}
+.form-control input, .form-control textarea {
+  box-sizing: border-box;
+  display: block;
+  padding: 10px;
+  margin-bottom: 20px;
+  width: 100%;
+  font-size: 18px;
+  border-radius: 2px;
+}
+.form-control input[type=text], .form-control textarea {
+  border: 1px solid #ddd;
+}
+
+
+.info {
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: center;
+  padding: 5em;
+  grid-area: info;
+}
+
+textarea {
+  resize: none;
+}
+
+.social-links a:hover {
+  background-color: transparent;
+  color: #03A9F4;
+}
+
+.social-links a {
+  text-decoration: none;
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  font-size: 18px;
+  text-align: center;
+  line-height: 36px;
+  border: 2px solid #03A9F4;
+  border-radius: 50%;
+  background-color: #03A9F4;
+  color: #fff;
+  margin: 15px;
+  transition: .3s all linear;
+}
+.social {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.social a {
+  padding: 10px;
+}
